@@ -7,10 +7,12 @@ A Basic test of [troydhanson's](http://troydhanson.github.io/ "troydhanson") [ut
 
 This is a Simple C Program to Interact with a Hash Table Containing string Keys and Values, Meant as a Proof of Concept and a Basic Example of What's Possible with uthash.
 
+This Project's Code is Released Under the MIT License, see the LICENSE file for Details.
+
 How to Compile
 --------------
 
-- git clone https://github.com/jedi453/uthash-cli-test.git
+- git clone https://github.com/jedi453/uthash-test-cli.git
 - Get [uthash](http://troydhanson.github.io/uthash/ "uthash") and Copy uthash.h to the uthash-cli-test directory
 - $ cd uthash-test-cli
 - $ make
